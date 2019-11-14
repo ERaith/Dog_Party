@@ -30,7 +30,7 @@
 }
 
 .hero {
-  background-image: url("/img/heroPic.png");
+  background-image: url("../img/heroPic.png");
   background-attachment: fixed;
   background-size: 100% auto;
   background-repeat: no-repeat;
